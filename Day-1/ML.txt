@@ -1,0 +1,15 @@
+﻿Machine Learning
+
+
+
+
+
+Machine Learning in simple words is the ability given to computers to learn things by themselves from past experiences and then make decisions based on it. There are a lot of examples of ML in our daily life such as when you shop online on any e-commerce website, you usually see different categories/items displayed on the home page and that usually differs from person to person and that is because it uses ML to go through your browsing history and items purchased in the past, hence, displays results differently. Another example could be Google Maps GPS to show the best and fastest route to the destination, or Virtual Assistance like Alexa or Siri used by us on daily basis. All of these technologies are achieved with the help on Machine Learning algorithm.
+
+To understand ML more thoroughly, lets take an example, suppose if I were to teach a person a language that he/she has never come across, and told him/her that “Good Morning” in German language is “Guden Morgen” and “Good Night” is “Guden Nacht” and then asked him/her that what would “Good Day” be in German language, he would be at least able to answer half of it, that is, “Guden...” because I already gave him/her that word. Now what he/she wouldn’t be able to get is the translation for “Day” in German. So, now the person learning “Guden” from past experience and making this done by machines is what we call, Machine Learning.
+
+Many people get confused between Machine Learning and Artifitial Intelligence, thinking that both are the same thing but in reality they are not. In a nutshell, ML is a subdomain of AI, meaning AI is achieved through Machine Learning algorithms. Whereas on the other hand, AI is an art of creating Intelligent machines with the help on ML, DL, NLP, Big Data etc.
+
+In order for computers to think like humans, they would need a system similar to human nervous system, which give humans the ability to think and make decisions, and for computers, that gap is filled by a domain called Deep Learning (DL). Deep Learning is the constructing/developing a neural network that could give a desired output based on the problem at. Neural network consists of multiple layers and it tries each and every possible combination for the given set of inputs and outputs.
+
+Therefore, Machine Learning (ML) is achieved by Deep Learning (DL) or neural network, and Artifitial Intelligence (AI) is achieved by Machine Learning (ML). 
